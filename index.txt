@@ -1,0 +1,160 @@
+File Name: README.md
+Size: 1144 bytes
+Content Type: text/markdown
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/README.md
+--------------------------------------------------
+File Name: index-generator.js
+Size: 1136 bytes
+Content Type: application/javascript
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/index-generator.js
+--------------------------------------------------
+File Name: mime
+Size: 1196 bytes
+Content Type: false
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/node_modules/.bin/mime
+--------------------------------------------------
+File Name: .package-lock.json
+Size: 1132 bytes
+Content Type: application/json
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/node_modules/.package-lock.json
+--------------------------------------------------
+File Name: CHANGELOG.md
+Size: 13003 bytes
+Content Type: text/markdown
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/node_modules/mime/CHANGELOG.md
+--------------------------------------------------
+File Name: LICENSE
+Size: 1098 bytes
+Content Type: false
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/node_modules/mime/LICENSE
+--------------------------------------------------
+File Name: Mime.js
+Size: 2892 bytes
+Content Type: application/javascript
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/node_modules/mime/Mime.js
+--------------------------------------------------
+File Name: README.md
+Size: 5124 bytes
+Content Type: text/markdown
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/node_modules/mime/README.md
+--------------------------------------------------
+File Name: cli.js
+Size: 1196 bytes
+Content Type: application/javascript
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/node_modules/mime/cli.js
+--------------------------------------------------
+File Name: index.js
+Size: 127 bytes
+Content Type: application/javascript
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/node_modules/mime/index.js
+--------------------------------------------------
+File Name: lite.js
+Size: 101 bytes
+Content Type: application/javascript
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/node_modules/mime/lite.js
+--------------------------------------------------
+File Name: package.json
+Size: 1115 bytes
+Content Type: application/json
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/node_modules/mime/package.json
+--------------------------------------------------
+File Name: other.js
+Size: 25894 bytes
+Content Type: application/javascript
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/node_modules/mime/types/other.js
+--------------------------------------------------
+File Name: standard.js
+Size: 9530 bytes
+Content Type: application/javascript
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/node_modules/mime/types/standard.js
+--------------------------------------------------
+File Name: HISTORY.md
+Size: 12581 bytes
+Content Type: text/markdown
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/node_modules/mime-db/HISTORY.md
+--------------------------------------------------
+File Name: LICENSE
+Size: 1172 bytes
+Content Type: false
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/node_modules/mime-db/LICENSE
+--------------------------------------------------
+File Name: README.md
+Size: 4091 bytes
+Content Type: text/markdown
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/node_modules/mime-db/README.md
+--------------------------------------------------
+File Name: db.json
+Size: 185882 bytes
+Content Type: application/json
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/node_modules/mime-db/db.json
+--------------------------------------------------
+File Name: index.js
+Size: 189 bytes
+Content Type: application/javascript
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/node_modules/mime-db/index.js
+--------------------------------------------------
+File Name: package.json
+Size: 1624 bytes
+Content Type: application/json
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/node_modules/mime-db/package.json
+--------------------------------------------------
+File Name: HISTORY.md
+Size: 8812 bytes
+Content Type: text/markdown
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/node_modules/mime-types/HISTORY.md
+--------------------------------------------------
+File Name: LICENSE
+Size: 1167 bytes
+Content Type: false
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/node_modules/mime-types/LICENSE
+--------------------------------------------------
+File Name: README.md
+Size: 3481 bytes
+Content Type: text/markdown
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/node_modules/mime-types/README.md
+--------------------------------------------------
+File Name: index.js
+Size: 3663 bytes
+Content Type: application/javascript
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/node_modules/mime-types/index.js
+--------------------------------------------------
+File Name: package.json
+Size: 1149 bytes
+Content Type: application/json
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/node_modules/mime-types/package.json
+--------------------------------------------------
+File Name: package-lock.json
+Size: 1239 bytes
+Content Type: application/json
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/package-lock.json
+--------------------------------------------------
+File Name: package.json
+Size: 78 bytes
+Content Type: application/json
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/package.json
+--------------------------------------------------
+File Name: user1.json
+Size: 16 bytes
+Content Type: application/json
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/test_data/data/user1.json
+--------------------------------------------------
+File Name: user2.json
+Size: 17 bytes
+Content Type: application/json
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/test_data/data/user2.json
+--------------------------------------------------
+File Name: linear-regression-plot.jpg
+Size: 19782 bytes
+Content Type: image/jpeg
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/test_data/linear-regression-plot.jpg
+--------------------------------------------------
+File Name: random-forest.png
+Size: 170098 bytes
+Content Type: image/png
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/test_data/random-forest.png
+--------------------------------------------------
+File Name: sample.pdf
+Size: 6566 bytes
+Content Type: application/pdf
+Path: /Users/tehila/Desktop/MJ/Predict/takehome/test_data/sample.pdf
+--------------------------------------------------
